@@ -1,10 +1,15 @@
 # Targeting System (NODE)
-# This entire page needs to be updated for a 3d, 1st-/3rd-person open-world real-time RPG
 
 **File:** `Targeting_System.md`
 **Location:** `Game-Mechanics/Combat/`
 
-**NODE** — Neural Operating Directive Enhancement. Inner Tepenia's equivalent of Fallout's VATS system: turn-based, Action-Point-driven, body-part targeting — rebuilt from the ground up to feel native to a world where the player is a robot.
+**NODE** — Neural Operating Directive Enhancement. Tepenia's equivalent of Fallout's VATS system, body-part targeting, AP-driven — rebuilt from the ground up to feel native to a world where the player is a robot. The name and core identity (AP-gated, body-part targeting, MACHINE stat integration) are shared across the series; the underlying combat model differs by game format.
+
+## Outer Tepenia Adaptation (confirmed 2026-06-30)
+
+The content below this point is written for Inner Tepenia's turn-based, isometric combat. **For Outer Tepenia's 3D, real-time, 1st-/3rd-person games, NODE works the way VATS works in Fallout: New Vegas** — a real-time-with-pause targeting mode layered on top of continuous real-time combat, not Inner Tepenia's fully turn-based system. This follows directly from the AP Combat Reference already established in `Game_Design_Principles.md` (Absolute Law 3: New Vegas's VATS model wins over Fallout 1/2's turn-based grid model).
+
+The body-part targeting list, crit model (Calculation/Investigation/Nerve three-stat system), and MACHINE stat integration below are conceptually still the intended basis (per the Series-Wide Systems principle — MACHINE stats carry over identically), but the full real-time version of this document — exact activation feel, time-slow behavior, and how it plays against a real-time camera and zero-g movement — has not yet been rewritten. Treat everything below as the conceptual seed to adapt, not the final Outer Tepenia design.
 
 ---
 
