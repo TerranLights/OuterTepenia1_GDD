@@ -25,7 +25,7 @@ Governed by three **Absolute Laws** — not allowed to be broken:
 
 1. **Player Freedom & Agency Reigns Supreme** — nothing is obligatory.
 2. **Old-School Fallout Is the Base Reference** — Fallout 1/2/New Vegas together are the central design reference; other games fill gaps Fallout doesn't cover.
-3. **New Vegas Is the Gold Standard Within Fallout** — where Fallout 1/2 and New Vegas differ, New Vegas wins.
+3. **New Vegas Is the Gold Standard Within Fallout** — where Fallout 1/2 and New Vegas conflict, New Vegas wins.
 
 Everything else — narrative tone (no good endings, the player as witness), scope targets, world-design framework, and reference standards for flight/camera/combat — builds on top of these. Full doc: [`Game_Design_Principles.md`](Game_Design_Principles.md).
 
