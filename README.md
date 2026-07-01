@@ -8,7 +8,7 @@ Game Design Docs for **Outer Tepenia 1** — a 1st-/3rd-person 3D open-world Sci
 
 ## What This Is
 
-Outer Tepenia 1 is the third work in the shared **Tepenian universe** (named for Tepenia, the in-universe hybrid robot/human meta-civilization — not to be confused with Terran Lights, the real-world media production company producing all three works), chronologically downstream of two other properties:
+Outer Tepenia 1 is the third work in the shared **Tepenian universe**, chronologically downstream of two other properties:
 
 - **[Inner Tepenia](https://github.com/TerranLights/InnerTepeniaGDD)** — a top-down, isometric, turn-based Sci-Fi RPG and spiritual successor to old-school Fallout, set in post-nuclear Antarctica (~2700s).
 - **[The Cryptograph Helix](https://github.com/TerranLights/TheCryptographHelixDD)** — a 7-volume novel series (~3000s–3100s) about a DNA-based criminal resistance fighting a tech oligarchy, during which the outer solar system ("Outer Tepenia" — Jupiter and beyond) transitions from uncolonized frontier to settled territory.
