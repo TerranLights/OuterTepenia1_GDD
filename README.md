@@ -51,4 +51,7 @@ Everything else — narrative tone (no good endings, the player as witness), sco
 
 ## Reference Games
 
-Fallout: New Vegas is the primary reference (see Absolute Laws above). Other confirmed references, scoped to specific systems: Fallout 4 (3rd-person camera), Everspace 2 / CHORVS / No Man's Sky (flight mechanics only), Horizon: Zero Dawn (camera, secondary).
+Fallout: New Vegas is the primary reference (see Absolute Laws above). Other confirmed references, scoped to specific systems:
+- Fallout 4 (3rd-person camera)
+- Everspace 2 / CHORVS / No Man's Sky (flight mechanics only)
+- Horizon: Zero Dawn (camera, secondary).
